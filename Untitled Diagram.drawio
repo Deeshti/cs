@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T20:24:49.180Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="DnX8284w6f9CCUku7mPU" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T05:00:31.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="e5A33wEsBmsj8AWGYXhP" version="15.5.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,8 +71,14 @@
         <mxCell id="wNHDnmGiz50pbZIcv4VM-21" value="Transaction declined" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="295" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wNHDnmGiz50pbZIcv4VM-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNHDnmGiz50pbZIcv4VM-22" target="wNHDnmGiz50pbZIcv4VM-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wNHDnmGiz50pbZIcv4VM-22" value="Transaction approved" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNHDnmGiz50pbZIcv4VM-26" value="Generate Report" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="596.25" y="460" width="102.5" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
